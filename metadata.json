@@ -1,0 +1,7 @@
+{
+  "name": "NzqL Finance React",
+  "description": "A modern, AI-powered personal finance tracker with receipt scanning and shift scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
